@@ -1,2 +1,0 @@
-# iteratorpattern
-Iterator Pattern
